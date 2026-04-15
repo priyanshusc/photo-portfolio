@@ -353,11 +353,11 @@ function Hero() {
                     <img
                       src="/profile.jpeg"
                       alt="Priyanshu Singh Chauhan"
-                      className="w-full h-full object-cover object-center grayscale-[15%] group-hover:grayscale-0 transition-all duration-700"
+                      className="w-full h-full object-cover object-center"
                     />
 
                     {/* Holographic Grid Pattern Overlay */}
-                    <div className="absolute inset-0 bg-[linear-gradient(transparent_50%,rgba(168,85,247,0.15)_50%)] bg-[length:100%_4px] pointer-events-none mix-blend-screen opacity-70 group-hover:opacity-100 transition-opacity duration-500" />
+
                   </div>
                 </div>
               </div>
